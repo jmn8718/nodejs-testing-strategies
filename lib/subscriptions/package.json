@@ -1,0 +1,20 @@
+{
+  "name": "subscriptions",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "node_modules/mocha/bin/mocha",
+    "test-report": "node_modules/mocha/bin/mocha --reporter doc"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "moment": "^2.23.0",
+    "underscore": "^1.9.1"
+  },
+  "devDependencies": {
+    "mocha": "^5.2.0",
+    "sinon": "^7.2.2"
+  }
+}
