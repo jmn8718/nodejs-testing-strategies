@@ -12,6 +12,7 @@
   "dependencies": {
     "async": "^2.6.1",
     "moment": "^2.23.0",
+    "stripe": "^6.20.1",
     "underscore": "^1.9.1"
   },
   "devDependencies": {
