@@ -10,7 +10,7 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "async": "^2.6.1",
+    "async": "^3.2.2",
     "moment": "^2.23.0",
     "stripe": "^6.20.1",
     "underscore": "^1.9.1"
